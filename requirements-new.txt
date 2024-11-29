@@ -1,0 +1,16 @@
+lxml
+pyquery
+# cloudscraper
+requests
+beautifulsoup4
+Pillow
+PyQt5
+PySocks
+urllib3
+zhconv
+langid
+opencv-contrib-python-headless
+deepl-translate
+ping3
+oshash
+curl-cffi
